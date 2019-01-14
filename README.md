@@ -24,6 +24,7 @@ _This web application allows two players to play a game of Pig Dice._
 * _Open web browser of choice_
 * _https://github.com/magmerco/pig-dice.git_
 * https://github.com/magmerco/pig-dice/index.html 
+* _https://magmerco.github.io/pig-dice/_
 
 ## Technologies Used
 
